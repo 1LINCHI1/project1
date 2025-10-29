@@ -9,6 +9,7 @@ def main():
 		command = input(">>>").strit().lower()
 
 		if command == "exit":
+			print("bye")
 			break
 
 if __name__ == "__main__":
